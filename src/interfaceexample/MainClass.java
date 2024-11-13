@@ -6,5 +6,6 @@ public class MainClass {
         sampleClass.demo2();
         sampleClass.demo1();
         sampleClass.demo3();
+
     }
 }
