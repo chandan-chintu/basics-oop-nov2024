@@ -2,6 +2,7 @@ package encapsulationexample;
 
 public class Student {
 
+// adding dummy line
     private int id;
     private String name;
     private String email;
@@ -12,6 +13,7 @@ public class Student {
     public int getId() {
         return id;
     }
+	// adding dummy line
 
     // setter - set the data or values
     public void setId(int id) {
@@ -25,6 +27,7 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
+	// adding dummy line
 
     public String getEmail() {
         return email;
@@ -45,6 +48,7 @@ public class Student {
     public String getGender() {
         return gender;
     }
+	// adding dummy line
 
     public void setGender(String gender) {
         this.gender = gender;
