@@ -7,12 +7,12 @@ public class SampleClass implements SampleInterface, SampleInterface2{
         System.out.println("demo1 implementation inside SampleClass");
     }
 
+// added
     @Override
     public void demo2() {
-        System.out.println("xyz value is : "+SampleInterface.xyz);
         System.out.println("demo2 implementation inside SampleClass");
     }
-
+	// added
     @Override
     public void demo3() {
         System.out.println("demo3 implementation inside SampleClass");
